@@ -9,8 +9,8 @@ import './Navbar.css';
 
 function Logo() {
 return <Box className="Logo">
-    <Typography variant="h4">
-    AA
+    <Typography variant="h5">
+    Design. Create. Develop.
     </Typography>
   </Box>
 }
@@ -23,9 +23,9 @@ function Navbar() {
         textColor="primary"
         centered
       >
-        <Tab label="Item One" />
-        <Tab label="Item Two" />
-        <Tab label="Item Three" />
+        <Tab label="Home" />
+        <Tab label="Projects" />
+        <Tab label="Contact" />
       </Tabs>
     </Box>
   )
