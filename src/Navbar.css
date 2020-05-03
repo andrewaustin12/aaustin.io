@@ -1,0 +1,10 @@
+.Logo {
+  padding: 4px 10px 4px 10px;
+}
+
+.Navbar {
+  height: 50px;
+  border-bottom: 1px solid grey;
+  display: flex;
+}
+
